@@ -1,0 +1,21 @@
+{
+  "extends": "airbnb-base",
+  "rules": {
+    "no-unused-vars": ["warn"],
+    "no-extend-native": ["warn"],
+    "prefer-destructuring": ["warn"],
+    "max-len": ["warn"],
+    "no-param-reassign": ["warn"],
+    "linebreak-style": 0,
+    "allowForLoopAfterthoughts": true,
+    "no-plusplus": "off",
+    "no-self-compare": "warn",
+    "no-restricted-syntax": [
+      "off",
+      "ForInStatement",
+      "ForOfStatement",
+      "LabeledStatement",
+      "WithStatement"
+    ]
+  }
+}

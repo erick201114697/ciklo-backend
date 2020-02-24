@@ -1,0 +1,7 @@
+/node_modules/
+/ssl/
+/public/img/*
+/public/vid/*
+/log/*
+.vscode/*
+package-lock.json
